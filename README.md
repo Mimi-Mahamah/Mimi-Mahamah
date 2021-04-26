@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋! I'm new to Web Development and so far it's been an amazing journey!
 
 <!--
 **Mimi-Mahamah/Mimi-Mahamah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
